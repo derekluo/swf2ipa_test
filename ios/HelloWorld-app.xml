@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<application xmlns="http://ns.adobe.com/air/application/2.6" > 
+    <id>AIRApp</id>
+    <name>Hello World iOS</name> 
+    <versionNumber>0.0.1</versionNumber> 
+    <filename>HelloWorld</filename> 
+    <supportedProfiles>mobileDevice</supportedProfiles> 
+    <initialWindow> 
+        <content>HelloWorld.swf</content> 
+        <title>Hello World!</title> 
+    </initialWindow> 
+    <icon> 
+        <image29x29>icons/AIRApp_29.png</image29x29> 
+        <image57x57>icons/AIRApp_57.png</image57x57> 
+        <image512x512>icons/AIRApp_512.png</image512x512> 
+    </icon> 
+</application>
